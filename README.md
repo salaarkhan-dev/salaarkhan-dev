@@ -1,3 +1,5 @@
+<h2 align="left">Hi 👋! My name is Salaar Khan and I'm a Full Stack Developer, from Pakistan</h2>
+
 # 💫 About Me:
 🔭 I’m currently working at [12 Tech](https://12tech.io)  <br>🌱 I’m currently learning T3, tRPC, GraphQL and AWS  <br>❓ Ask me about anything related to MERN/MEAN stack, Django and related technologies  <br>⚡ Fun fact: I use tabs over spaces 
 
@@ -12,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salaarkhan-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salaarkhan-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salaarkhan-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,6 +23,14 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salaarkhan-dev&icon=8&color=0)](https://visitcount.itsvg.in)
