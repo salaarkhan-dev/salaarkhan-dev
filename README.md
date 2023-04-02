@@ -5,12 +5,19 @@ Full Stack Developer
 --------------------
 
 🌍  I'm based in Pakistan
+
 🚀  I'm currently working at [12 Tech](http://12tech.io)
-🖥️  See my portfolio at [http://salaarkhan-dev.github.io/](http://salaarkhan-dev.github.io)
+
+🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)
+
 ❓  Ask me about anything related to MERN/MEAN stack, Django and related technologies
+
 ✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)
+
 🌱  I’m currently learning T3, tRPC, GraphQL and AWS
+
 ⚡  I'm secretly Spiderman... but don't tell anyone
+
 
 
 ## 🌐 Socials:
