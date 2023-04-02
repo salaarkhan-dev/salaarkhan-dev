@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-🌍  I'm based in Pakistan
-🚀  I'm currently working at [12 Tech](http://12tech.io)
-🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)
-❓  Ask me about anything related to MERN/MEAN stack, Django and related technologies
-✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)
-🌱  I’m currently learning T3, tRPC, GraphQL and AWS
-⚡  I'm secretly Spiderman... but don't tell anyone
+🌍  I'm based in Pakistan <br>
+🚀  I'm currently working at [12 Tech](http://12tech.io)<br>
+🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)<br>
+❓  Ask me about anything related to MERN/MEAN stack, Django and related technologies<br>
+✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)<br>
+🌱  I’m currently learning T3, tRPC, GraphQL and AWS<br>
+⚡  I'm secretly Spiderman... but don't tell anyone<br>
 
 
 
