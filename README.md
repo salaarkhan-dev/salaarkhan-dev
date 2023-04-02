@@ -1,17 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Salaar Khan
-===================================================================================================================================
+# Hi, I'm Salaar Khan! 👋
 
-Full Stack Developer
---------------------
+I'm a full-stack developer with a passion for coding and a love for all things tech. I am an enthusiastic and passionate developer who loves to explore new ideas and technologies. I believe that continuous learning and experimentation are the keys to success in this field. 
 
-🌍  I'm based in Pakistan <br>
 🚀  I'm currently working at [12 Tech](http://12tech.io)<br>
 🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)<br>
 ❓  Ask me about anything related to MERN/MEAN stack, Django and related technologies<br>
 ✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)<br>
 🌱  I’m currently learning T3, tRPC, GraphQL and AWS<br>
 ⚡  I'm secretly Spiderman... but don't tell anyone<br>
-
 
 
 ## 🌐 Socials:
