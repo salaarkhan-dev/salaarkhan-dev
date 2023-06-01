@@ -6,7 +6,7 @@ I'm a full-stack developer with a passion for coding and a love for all things t
 - ❓  Ask me about anything related to MERN/MEAN stack, Django and related technologies<br>
 - ✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)<br>
 - 🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)<br>
-- ⚡  I'm secretly Spiderman 🕸️... but don't tell anyone 🤫 <br>
+- ⚡  I'm secretly a Spiderman 🕸️... but don't tell anyone 🤫 <br>
 
 
 ## 🌐 Socials:
