@@ -5,7 +5,7 @@ I'm a full-stack developer with a passion for coding and a love for all things t
 - 🌱  I’m currently learning Next JS and AWS<br>
 - ❓  Ask me about anything related to NextJs, React, Django and related technologies<br>
 - ✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)<br>
-- 🖥️  See my portfolio at [http://salaarkhan-dev.github.io](http://salaarkhan-dev.github.io)<br>
+- 🖥️  See my portfolio at [https://salaarkhan-dev.github.io](https://salaarkhan-dev.github.io)<br>
 - ⚡  I'm secretly a Spiderman 🕸️... but don't tell anyone 🤫 <br>
 
 
