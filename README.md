@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with a passion for coding and a love for all things tech. I am an enthusiastic and passionate developer who loves to explore new ideas and technologies. I believe that continuous learning and experimentation are the keys to success in this field. 
 
-- 🌱  I’m currently learning Next JS and AWS<br>
+- 🌱  I’m currently learning n8n<br>
 - ❓  Ask me about anything related to NextJs, React, Django and related technologies<br>
 - ✉️  You can contact me at [salaarkhan.dev@gmail.com](mailto:salaarkhan.dev@gmail.com)<br>
 - 🖥️  See my portfolio at [https://salaarkhan-dev.github.io](https://salaarkhan-dev.github.io)<br>
